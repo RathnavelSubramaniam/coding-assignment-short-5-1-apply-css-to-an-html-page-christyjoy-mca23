@@ -1,0 +1,45 @@
+
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    align-items: center;
+    
+   
+}main{
+    border: 10px double rgb(0, 68, 255);
+    height: 900px;
+    width: 700px;
+    padding:50px;
+    background-color:white;
+}
+li{
+    margin-left:-20px;
+    line-height: 1.5;
+}
+section{
+    border: 2px solid black;
+    width:900px;
+    height:1100px;
+background-color: yellow;
+margin:80px;
+padding-left: 60px;
+
+}
+h1{
+    color:rgb(0, 68, 255);
+    }
+    img{
+        
+        padding-right:15px;
+        padding-bottom: 15px;
+        float: left;
+    }
+    .blue{
+        float: right;
+        color:rgb(0, 68, 255) ;
+    }
+    footer{
+        border-top: 2px solid rgb(0, 68, 255);
+        text-align: center;
+    }
